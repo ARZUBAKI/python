@@ -1,1 +1,1 @@
-# python
+# python ilk çalışma
